@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="857ebccb-161e-4308-9726-49bd853af010" name="Changes" comment="" />
+    <list default="true" id="857ebccb-161e-4308-9726-49bd853af010" name="Changes" comment="this code is generally for a users input" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,11 +20,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "the-ayush495"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/the-ayush495/user-input.git",
+    "accountId": "64777995-c39e-41c6-b19e-3f355297dff7"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
   <component name="ProjectId" id="2y8XxRSGsLeZZFM5nsSA8fi5G8O" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,13 +46,25 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.Pattern.executor": "Run",
+    "Application.Pattren.executor": "Run",
+    "Application.Sum.executor": "Run",
     "Application.Userinput.executor": "Run",
     "Application.Welcome.executor": "Run",
     "Application.main.executor": "Run",
+    "Application.pyramid.executor": "Run",
+    "Application.sum.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/intelliji idea/userinput/src/Main.java"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -50,6 +76,59 @@
       <option name="presentableId" value="Default" />
       <updated>1749217420058</updated>
     </task>
+    <task id="LOCAL-00001" summary="this code is generally for a users input">
+      <option name="closed" value="true" />
+      <created>1749219217860</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749219217860</updated>
+    </task>
+    <task id="LOCAL-00002" summary="this code is generally for a users input">
+      <option name="closed" value="true" />
+      <created>1749221721056</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749221721057</updated>
+    </task>
+    <task id="LOCAL-00003" summary="this code is generally for a users input">
+      <option name="closed" value="true" />
+      <created>1749221956057</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749221956057</updated>
+    </task>
+    <task id="LOCAL-00004" summary="this code is generally for a users input">
+      <option name="closed" value="true" />
+      <created>1749221991343</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749221991343</updated>
+    </task>
+    <task id="LOCAL-00005" summary="this code is generally for a users input">
+      <option name="closed" value="true" />
+      <created>1749222001510</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749222001510</updated>
+    </task>
+    <task id="LOCAL-00006" summary="this code is generally for a users input">
+      <option name="closed" value="true" />
+      <created>1749222042640</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1749222042640</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="this code is generally for a users input" />
+    <option name="LAST_COMMIT_MESSAGE" value="this code is generally for a users input" />
   </component>
 </project>
